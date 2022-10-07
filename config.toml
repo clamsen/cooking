@@ -3,6 +3,9 @@ baseURL = 'https://clamsen.github.io/cooking/'
 languageCode = 'en-us'
 title = 'Clamsen`s Cooking'
 #theme = 'lugo'
+favicon = "/cooking/favicon.svg"
+stylesheet = "/cooking/style.css"
+
 
 [params]
   favicon = "/cooking/favicon.svg"
