@@ -5,7 +5,7 @@ tags: ['dessert', 'pie', 'sweet']
 author: mfed3
 ---
 
-![Apple Pie](/pix/apple-pie.webp)
+![Apple Pie](/cooking/pix/apple-pie.webp)
 
 - ⏲️ Prep time: 30 min
 - 🍳Cook time: 45 min

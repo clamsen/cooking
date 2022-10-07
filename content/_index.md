@@ -60,18 +60,15 @@ document.addEventListener("DOMContentLoaded", () => {
 // @license-end
 </script>
 
-## Or Newest Recipes
+## Newest Recipes
 
 {{< artlist >}}
 
-
-## Browse by Category...
+## Or Browse by Category...
 
 {{< tagcloud >}}
-
 
 ## It's easy to contribute!
 
 New recipes can be submitted [on Github](https://github.com/lukesmithxyz/based.cooking).
-
-{{< crypto >}}
+We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
