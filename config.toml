@@ -5,8 +5,8 @@ title = 'Clamsen`s Cooking'
 theme = 'lugo'
 
 [params]
-  favicon = "/favicon.svg"
-  stylesheet = "/style.css"
+  favicon = "/cooking/favicon.svg"
+  stylesheet = "/cooking/style.css"
   indexarticles = 50
   taglist = true
 
