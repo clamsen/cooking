@@ -60,26 +60,18 @@ document.addEventListener("DOMContentLoaded", () => {
 // @license-end
 </script>
 
-## Newest Recipes
+## Or Newest Recipes
 
 {{< artlist >}}
 
-## Or Browse by Category...
+
+## Browse by Category...
 
 {{< tagcloud >}}
 
-## About this site
-
-Founded to provide a simple online cookbook without ads and obese web design.
-See the story of this site unfold in three videos:
-
-- [A Demonstration of Modern Web Bloat](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f)
-- [The War Against Web Bloat Continues...](https://odysee.com/@Luke:7/the-war-against-web-bloat-continues...:a)
-- [SoyDevs DESTROYED Epic Style by Based Cooking!](https://odysee.com/@Luke:7/soydevs-destroyed-epic-style-by-based:6)
 
 ## It's easy to contribute!
 
 New recipes can be submitted [on Github](https://github.com/lukesmithxyz/based.cooking).
-We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
 
 {{< crypto >}}
