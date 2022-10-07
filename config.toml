@@ -1,4 +1,5 @@
-baseURL = 'https://based.cooking/'
+#baseURL = 'https://based.cooking/'
+baseURL = 'https://clamsen.github.io/cooking/'
 languageCode = 'en-us'
 title = 'Clamsen`s Cooking'
 theme = 'lugo'
