@@ -1,6 +1,6 @@
 ---
-title: "🍲 Based Cooking 🍳"
-description: 'The fast-loading recipe site with cooking only and no ads.'
+title: "🍲 Clamsen`s Cooking 🍳"
+description: 'Recipe site with cooking only and no ads.'
 layout: single
 ---
 
