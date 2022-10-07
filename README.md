@@ -1,6 +1,5 @@
-# Based Cooking Website
-
-[https://based.cooking](https://based.cooking)
+#  Cooking Website Based on [https://based.cooking](https://based.cooking)
+Code for the site can be found at [Clamsen`s cooking](https://github.com/clamsen/cooking)
 
 This is a simple cooking website where users can submit recipes here for credit.
 There are no ads, trackers or cookies (unless recipes thereof).
