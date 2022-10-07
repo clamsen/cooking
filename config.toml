@@ -12,6 +12,8 @@ stylesheet = "/cooking/style.css"
   stylesheet = "/cooking/style.css"
   indexarticles = 50
   taglist = true
+  showrss = true
+  nextprev = true
   relatedtext = "Related:"
 
 
