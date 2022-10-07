@@ -4,8 +4,8 @@
 	<title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
 	<link rel="canonical" href="{{ .Site.BaseURL }}">
 	<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
-	<link rel='stylesheet' type='text/css' href='cooking/style.css'>
-	<link rel="icon" href='/cooking/favicon.svg'>
+	<link rel='stylesheet' type='text/css' href="{{.Site.BaseURL}}style.css">
+	<link rel="icon" href='{{.Site.BaseURL}}favicon.svg'>
 	<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
 	{{ if isset .Params "tags" }}<meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">
 	{{ end -}}
